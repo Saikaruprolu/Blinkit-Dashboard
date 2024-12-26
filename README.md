@@ -45,13 +45,36 @@ using power query and power query editor to clean the data like removing null va
 
 ### RLS
 
-Created RLS for each Oulet location type
+Created RLS for each Outlet location type like below
+
+
+
+-Tier-1 location as Tier 1
+
+-Tier-2 location asTier 2
+
+-Tier 3 location as Tier 3
+
+Once report published to the service,assigned email id for each roles created
+
+after that access given to the each assigned person as # Viewer
+
+    
 
 ![Screenshot 2024-12-26 173708](https://github.com/user-attachments/assets/f4594459-92b4-4895-812c-6c1056e738b4)
 
 ### Dashboard creation
 
 Dashbboard created with all the important KPI's and Chats
+
+all 4 KPI's are pinged to dashboard
+important chats also pinged to dashboard
+
+After creation of dashboard following opeartions performed
+
+-Given access to the dashboard using subscribe to dashboard
+
+-alerts has been set using set alert
 
 
 ![Screenshot 2024-12-26 181211](https://github.com/user-attachments/assets/169f2185-8d1a-44ed-8ea5-1d9bdeafb68e)
