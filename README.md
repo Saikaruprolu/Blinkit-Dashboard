@@ -6,7 +6,10 @@
   - [Data Sources](#data-sources)
   - [Tools used/steps followed](#tools-used-and-steps-followed)
   - [Row Level Security](#rls)
+  - [Dashboard creation](#dashboard-creation)
   - [Learnings](#learnings)
+
+
 
 ## Project Overview
 
@@ -45,6 +48,15 @@ using power query and power query editor to clean the data like removing null va
 Created RLS for each Oulet location type
 
 ![Screenshot 2024-12-26 173708](https://github.com/user-attachments/assets/f4594459-92b4-4895-812c-6c1056e738b4)
+
+### Dashboard creation
+
+Dashbboard created with all the important KPI's and Chats
+
+
+![Screenshot 2024-12-26 181211](https://github.com/user-attachments/assets/169f2185-8d1a-44ed-8ea5-1d9bdeafb68e)
+
+
 
 
 ### Learnings
