@@ -65,3 +65,7 @@ Dashbboard created with all the important KPI's and Chats
 2. Learned how to clean data using power query Editor
 3. did data modelling
 4. created fully intractive dashboards
+5. Published to PowerBI Service
+6. Implemented RLS
+7. Created Dashboard/APP
+8. Scheduled refresh through gateway
